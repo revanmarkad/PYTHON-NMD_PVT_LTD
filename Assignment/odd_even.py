@@ -1,3 +1,5 @@
+#  Write a program that takes an integer input and prints "Odd" if the number is odd and "Even" if it's even.
+
 try:
     inp = int(input("Enter a number: "))
 

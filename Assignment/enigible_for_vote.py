@@ -1,3 +1,6 @@
+# : Create a program to check if a person is eligible to vote. (Age >= 18)
+
+
 try:
     age = int(input("Enter your age: "))
     
