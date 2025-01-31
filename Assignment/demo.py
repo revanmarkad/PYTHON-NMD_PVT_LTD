@@ -10,9 +10,23 @@
 
 
 
-def test(a,b=9):
+
+
+
+
+
+
+# def test(a,b=9):
     
-    return a+b
+#     return a+b
 
 
-print(test(5,6))
+# print(test(5,6))
+
+
+
+
+
+# val=[1,2,3,4]
+
+# print(max(val))
